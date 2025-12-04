@@ -2,10 +2,4 @@ Hej jestem Daniel!
 
 Jestem ze szkoly sredniej!
 
-Jestem w klasie 3TP
-
-Jestem chlopakiem
-
-Jestem kolega Kuby
-
-Git
+Nowy tekst
