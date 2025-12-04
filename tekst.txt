@@ -1,1 +1,3 @@
 Hej jestem Daniel!
+
+Git zmiana z komputera Daniela
